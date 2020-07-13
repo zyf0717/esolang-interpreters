@@ -1,1 +1,1 @@
-# Esolang Interpreters (Python 3)
+# Esolang Interpreters
